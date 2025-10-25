@@ -4,7 +4,7 @@ Este repositorio contiene dos ejercicios básicos en **Node.js**.
 
 ## Ejercicio 1: Multiplicador
 
-Archivo: [MULTIPLICADOR.JS](./MULTIPLICAR.JS)
+Archivo: [MULTIPLICADOR.JS](./MULTIPLICADOR.JS)
 
 ### Descripción
 La función `crearMultiplicador(base)` devuelve una nueva función que multiplica el número recibido por la base indicada.
