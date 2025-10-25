@@ -4,14 +4,14 @@ Este repositorio contiene dos ejercicios básicos en **Node.js**.
 
 ## Ejercicio 1: Multiplicador
 
-Archivo: [multiplicador.js](./MULTIPLICAR.js)
+Archivo: [MULTIPLICADOR.JS](./MULTIPLICAR.JS)
 
 ### Descripción
 La función `crearMultiplicador(base)` devuelve una nueva función que multiplica el número recibido por la base indicada.
 
-## 🧠 Ejercicio 2: Factorial
+## Ejercicio 2: Factorial
 
-Archivo: [factorial.js](./FACTORIAL.js)
+Archivo: [FACTORIAL.JS](./FACTORIAL.JS)
 
 ### Descripción
 La función recursiva `factorial(n)` calcula el factorial de un número multiplicando todos los enteros desde 1 hasta `n`.
